@@ -24,9 +24,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     
     
 ## Tech Stack
-Data Handling/Visualisation: Python, numpy, seaborn, wordcloud, pandas
-Data Scraping: Pushshift, Kaggle
-Machine Learning: keras, tensorflow, nltk
+Data Handling/Visualisation: Python, numpy, seaborn, wordcloud, pandas  
+Data Scraping: Pushshift, Kaggle  
+Machine Learning: keras, tensorflow, nltk  
 Infrastructure: Google Colab
 
 
@@ -38,7 +38,7 @@ Infrastructure: Google Colab
 
 ## Problem Definition
 
-- Are we able to predict depressive sentiment in social media posts?
+Are we able to predict depressive sentiment in social media posts?
 
 ## Models Used
 
