@@ -42,7 +42,7 @@ Infrastructure: Google Colab
 
 ## Models Used
 
-1. Recurrent Neural Network
+Recurrent Neural Network, Long Short Term Memory with Dropout layer
 
 ## Conclusion
 
@@ -74,4 +74,3 @@ Infrastructure: Google Colab
 - <https://www.straitstimes.com/singapore/health/imh-study-points-to-likely-increase-in-mental-health-issues-in-spore-amid-covid-19>
 - https://github.com/pushshift/api
 - https://psaw.readthedocs.io/en/latest/
-- 
