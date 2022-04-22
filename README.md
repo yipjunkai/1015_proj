@@ -71,7 +71,7 @@ Infrastructure: Google Colab
 - <https://alexlenail.me/NN-SVG/index.html>
 - <https://www.kaggle.com/datasets/kazanova/sentiment140>
 - <https://doi.org/10.7759/cureus.8627>
-- <https://www.straitstimes.com/singapore/health/imh-study-points-to-likely-increase-in-mental-health-issues-in-spore-amid-covid-19 >
+- <https://www.straitstimes.com/singapore/health/imh-study-points-to-likely-increase-in-mental-health-issues-in-spore-amid-covid-19>
 - https://github.com/pushshift/api
 - https://psaw.readthedocs.io/en/latest/
 - 
